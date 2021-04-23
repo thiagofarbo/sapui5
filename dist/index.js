@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/ComponentContainer"],function(n){"use strict";new n({name:"sapui",settings:{id:"sapui"},async:true}).placeAt("content")});

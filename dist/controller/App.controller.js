@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/mvc/Controller"],function(n){"use strict";return n.extend("sapui.App",{onOpenDialog:function(){this.getOwnerComponent().openDialog()}})});
