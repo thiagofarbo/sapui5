@@ -92,7 +92,7 @@
             "config": {
                 "routerClass": "sap.m.routing.Router",
                 "viewType": "XML",
-                "viewPath": "sapui.sapui.view",
+                "viewPath": "sapui.view",
                 "controlId": "app",
                 "controlAggregation": "pages",
                 "async": true
@@ -118,7 +118,6 @@
                     "viewId": "detail",
                     "viewName": "Detail"
                 }
-
             }
           
         },

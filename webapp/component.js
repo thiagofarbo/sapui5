@@ -22,6 +22,8 @@ sap.ui.define([
 
             // set dialog
             this._helloDialog = new Dialog(this.getRootControl());
+
+            this.getRouter().initialize();
         },
 
         exit: function () {
